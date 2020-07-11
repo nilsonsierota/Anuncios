@@ -1,0 +1,12 @@
+{
+  "name": "Anuncios",
+  "displayName": "Anuncios",
+  "expo": {
+    "name": "Anuncios",
+    "slug": "Anuncios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
