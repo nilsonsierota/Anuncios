@@ -2,11 +2,12 @@
   "name": "Anuncios",
   "displayName": "Anuncios",
   "expo": {
-    "name": "Anuncios",
+    "name": "ProjetoAnuncios",
     "slug": "Anuncios",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
